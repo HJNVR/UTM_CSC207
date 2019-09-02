@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: Si Tong Liu
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :none
+	Today     :fill in members form and choose user stories.
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :claim user story
+	Today     :go through the files
+	Obstacles :have trouble understanding the structure of the algorithm
+
+Nov 1, 2018
+	Yesterday :go through the files
+	Today     :have a group meeting, finished Rectangle, and Rectangle feedback
+	Obstacles :we had a merge conflict and we fixed it.
+
+Nov 2, 2018
+	Yesterday :had meeting from 9-11
+	Today     :no meeting, fixed minor problems in Rectangle
+	Obstacles :don't know how to design the function for drawing rectangle, can't decide how many variables it should have
+
+Nov 3, 2018
+	Yesterday :no meeting
+	Today     :go through the code given, understand how the algorithm work as a whole
+	Obstacles :having problem understand what view does
+
+Nov 4, 2018
+	Yesterday :no meeting
+	Today     :no progress
+	Obstacles :
+
+Nov 5, 2018
+	Yesterday :no meeting
+	Today     :no progress
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday :no meeting
+	Today     :the whole structure was changed, we had to start from the very begining by reorganizing the paintpanel
+	Obstacles :everything is changed, had to redo almost everything
+
+Nov 7, 2018
+	Yesterday :meeting
+	Today     :discussed what design pattern we should be using and how the code should be divided
+	Obstacles :i was no good at design pattern, so i had a hard time understanding the meeting
+
+Nov 8, 2018
+	Yesterday :no meeting
+	Today     :deciding how to design the real time of dragging of the mouse
+	Obstacles :no one know how to keep track of the mouse when it is moving
+
+Nov 9, 2018
+	Yesterday :no meeting
+	Today     :finished redoing Rectangle and Rectangle feedback
+	Obstacles :there were so many files that had to be modified, it was a little confusing
+
+Nov 10, 2018
+	Yesterday :meeting
+	Today     :discussed how the feedback could be improved
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :meeting
+	Today     :work on the mouse commands
+	Obstacles :we did seperate parts of the same files, so it got a little confusing
+	
+Nov 12, 2018
+	Yesterday :no meeting
+	Today     :no progress
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :no meeting
+	Today     :no progress, preparing for the 236 test
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :no meeting
+	Today     :work on polylines
+	Obstacles :having trouble deciding how many variables the polyline class should have

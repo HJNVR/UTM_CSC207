@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: yanmengy
+Oct 28, 2018
+	Yesterday :northing
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     : lab exercise 
+	Obstacles :circle radius
+
+Oct 30, 2018
+	Yesterday : lab exercise 
+	Today     : each member pick different user story.
+	Obstacles : git push issues, we push at both time
+
+Oct 31, 2018
+	Yesterday :working for userstory
+	Today     :working for userstory
+	Obstacles :userstory
+
+Nov 1, 2018
+	Yesterday : no meeting 
+	Today     : check each member work, claiming new UserStory
+	Obstacles : 
+
+Nov 2, 2018
+	Yesterday :meeting
+	Today     :working for new userstory
+	Obstacles :userstory
+
+Nov 3, 2018
+	Yesterday :working for new userstory
+	Today     :
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :no meeting 
+	Today     :thinking about design
+	Obstacles :what should design
+
+Nov 5, 2018
+	Yesterday :no meeting 
+	Today     : thinking about design
+	Obstacles :what should design
+
+Nov 6, 2018
+	Yesterday :no meeting 
+	Today     : meeting for mouse , makeing mouse part to different class
+	Obstacles : 
+
+Nov 7, 2018
+	Yesterday :meeting for mouse and design
+	Today     : working on design part and bug 1 and2
+	Obstacles :button problem
+
+Nov 8, 2018
+	Yesterday :no meeting 
+	Today     :thinking about do circle at real time
+	Obstacles :no idea
+
+Nov 9, 2018
+	YYesterday :no meeting 
+	Today     :thinking about do circle at real time,discuss about 
+	Obstacles :no idea
+
+Nov 10, 2018
+	Yesterday :understand
+	Today     :understanded class Image and ImageView, Meanitem, trying to use these for better design
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :thinking about real time circle and how to add image to button
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :thinking about real time circle and radius of circle (mouse was not close line of circle,need to fix it)
+	Obstacles :radius of circle wastes so much time
+
+Nov 13, 2018
+	Yesterday :
+	Today     :thinking about eraser, which method should use
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     :thinking about colourpicker,make more color ,if possible, make a colour box
+	Obstacles :

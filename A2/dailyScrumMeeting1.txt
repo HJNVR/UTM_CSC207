@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: Jing Huang
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday : a2 posted, no meeting 
+	Today     : fill in the members.txt file and choose USER STROY 2
+	Obstacles : do not know the orders of pushing, and we sometimes forget to pull firstly
+
+Oct 31, 2018
+	Yesterday : about claiming userStory
+	Today     : finished UserStory2
+	Obstacles : 
+
+Nov 1, 2018
+	Yesterday : no meeting Halloween
+	Today     : check individual work and claim new UserStory, mine is User Story 5
+	Obstacles : UserSquare and UserPOint Bug found; have problems on git pushing 
+
+Nov 2, 2018
+	Yesterday : have meeting from 9 - 11, claimed UserStory5
+	Today     : no meeting, first draft of UserStory5; found BugColor and fixed it, Bug 5 and Bug 6 claimed
+				Bug 5 fixed
+	Obstacles : at firstly, do not know how to set each shape with unqiue color
+
+Nov 3, 2018
+	Yesterday : meeting about claiming userStorys
+	Today     : working on Color UserStory
+	Obstacles : 
+
+Nov 4, 2018
+	Yesterday : no meeting 
+	Today     : try to work on other's jobs
+	Obstacles : 
+
+Nov 5, 2018
+	Yesterday : no meeting 
+	Today     : checked discussion borad and see we have to use deisgn parttern , have to
+				start from 0 again
+	Obstacles : thuoght we almost done, but we are not ,sad
+
+Nov 6, 2018
+	Yesterday : no meeting 
+	Today     : meeting create mouse command and divide commands into serveral parts
+	Obstacles : first time to use command design parttern
+
+Nov 7, 2018
+	Yesterday : meeting about command design pattern
+	Today     : working on design pattern
+	Obstacles : 
+
+Nov 8, 2018
+	Yesterday : no meeting 
+	Today     : have trouble figuring out how to real-time drgging shapes
+	Obstacles : do not know how to draw at a current time
+
+Nov 9, 2018
+	Yesterday : no meeting
+	Today     : discuss about feedback and redo Circle and rectangle and Square
+	Obstacles : 
+
+Nov 10, 2018
+	Yesterday : meeting about improving feedback
+	Today     : get Style UserStory form others
+	Obstacles : it's hard to have each shape has unique style
+	
+Nov 11, 2018
+	Yesterday : meeting 
+	Today     : working on color userStory and take style UserStory
+	Obstacles : 
+	
+Nov 12, 2018
+	Yesterday : no meeting 
+	Today     : continue on UserStories and make improvement on code
+	Obstacles : 
+
+Nov 13, 2018
+	Yesterday : no meeting
+	Today     : add more color orange, yellow, purple.... colors
+	Obstacles : have CSC 236 test
+
+Nov 14, 2018
+	Yesterday : no meeting
+	Today     :  meeting all day: improve the whole design, add draw command , polylined done
+	Obstacles :

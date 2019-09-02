@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: Shuo Yang
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     : Filled in members form and choose the user story
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     : Working on userStory3
+	Obstacles : add rectangle to the paintPanel
+
+Nov 1, 2018
+	Yesterday :
+	Today     :complete userStory Square and working on rectangle
+	Obstacles :git problem 
+
+Nov 2, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 7, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 10, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
