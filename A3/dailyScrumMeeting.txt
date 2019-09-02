@@ -1,0 +1,84 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 23, 2017
+	Yesterday :
+	Today     :haven't started yet 
+	Obstacles :290 presentation
+
+Nov 24, 2017
+	Yesterday :nothing 
+	Today     :haven't started yet
+	Obstacles :STA 304 presentation
+
+
+Nov 25, 2017
+	Yesterday :nothing 
+	Today     :haven't started yet
+	Obstacles :STA 304 presentation
+
+Nov 26, 2017
+	Yesterday :nothing 
+	Today     :figure the detail of given codes and start User Story3.1, "addCircleText"
+	Obstacles :how to save files and how to save as picture?
+	
+Nov 27, 2017
+	Yesterday :work on "addCircleText"
+	Today     :"addCircleText done"and add new UserStory: "addRectangle Text" and 
+	"addSquiggleText". UserStory3.1 almost done, not sure about converting to integer
+	Obstacles :need to accurately convert the color.
+	
+Nov 28, 2017
+	Yesterday :almost finish userStory3.1
+	Today     : do not use toString method; q1 - q5 of parser done; circle loop done;
+	add new rectangleloop and squiggleloop user story
+	Obstacles : how to set up FSM
+	
+Nov 29, 2017
+	Yesterday : work on build FSM 
+	Today     :parser file done and work on add command order, new User Story loadCommand
+	UserStory3.2 done 
+	Obstacles :how to turn txt message to command
+
+Nov 30, 2017
+	Yesterday :almost done UserStory3.2
+	Today     :modify the error message of UserStory3.2(done). Working on UserStory3.3
+	UserStory3.3 done.
+	Obstacles :what is a visitor design pattern
+
+Dec 1, 2017
+	Yesterday : done paint 
+	Today     : working on Single. Give up on the last part, but almost
+	done.
+	Obstacles :
+	
+Dec 2, 2017
+	Yesterday : SingleFile almost done.
+	Today     : Nothing
+	Obstacles :
+
+Dec 3, 2017
+	Yesterday : Nothing
+	Today     : NOthing
+	Obstacles :
+
+Dec 4, 2017
+	Yesterday : Nothing
+	Today     : Nothing 
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :Nothing 
+	Today     :SingleFile done. Give up on FPErrors
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
